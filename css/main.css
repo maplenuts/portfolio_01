@@ -526,7 +526,7 @@ body {
    width: calc(100% / 3);
    position: sticky;
    height: 700px;
-   top: 200px;
+   top: 20%;
    box-shadow: 0 0 400px #fff;
    z-index: 7;
 }
